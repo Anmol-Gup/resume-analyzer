@@ -100,22 +100,3 @@ cd frontend
 npm install
 npm run dev
 ```
-
----
-
-## 🌐 Deployment
-
-### Frontend
-
-* Hosted on Vercel
-* Root directory: `frontend`
-* Build command: `npm run build`
-* Output directory: `dist`
-
-### Backend
-
-* Hosted on Render
-* Root directory: `backend`
-* Node version: 18+
-
----
