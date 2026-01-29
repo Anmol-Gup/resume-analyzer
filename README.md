@@ -2,10 +2,10 @@
 
 An **AI-powered Resume Analyzer** that evaluates resumes against job descriptions and provides an **ATS score**, skill gap analysis, and actionable feedback — built using **Gemini SDK**, **Node.js**, and **React (Vite)**.
 
-### 📽️ *Demo video available on YouTube.*
+### 📽️ *Demo video* ###
+https://youtu.be/W1Q_tCvhmXQ?si=cEDNwbKWBnaP5iiA
 
 ---
-
 ## ✨ Features
 
 - 📄 Upload resume in **PDF format**
